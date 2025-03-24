@@ -53,11 +53,11 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 
 ## Output:
 ### Linear Interpolation
-![image](https://user-images.githubusercontent.com/75413726/206198662-b49c14f6-bb46-4e48-84e8-d8d356a5f94a.png)
+<img src="https://user-images.githubusercontent.com/75413726/206198662-b49c14f6-bb46-4e48-84e8-d8d356a5f94a.png" width="400" />
+
 
 ### Circular Interpolation
-![image](https://user-images.githubusercontent.com/75413726/206198760-c8cc237e-65fe-4710-b817-6dc1481f08c2.png)
-
+<img src="https://user-images.githubusercontent.com/75413726/206198760-c8cc237e-65fe-4710-b817-6dc1481f08c2.png" height="400" />
 
 ## Result: 
 
