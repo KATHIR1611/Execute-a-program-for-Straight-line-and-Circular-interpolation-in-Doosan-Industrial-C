@@ -50,7 +50,7 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 
 ![image](https://user-images.githubusercontent.com/75413726/206198619-93b083c0-c7ed-4c83-997d-3071ba742c4c.png)
 
-### output
+## Output:
 
 ### Linear Interpolation
 
