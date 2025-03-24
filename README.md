@@ -4,9 +4,9 @@
 
 ## Components Required:
 
-*Doosan Industrial Collaborative Robot
+1.Doosan Industrial Collaborative Robot
 
-*DRL (Doosan Robotics Language) Studio Software
+2.DRL (Doosan Robotics Language) Studio Software
 
 ## Theory: 
 INTERPOLATION
